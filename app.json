@@ -1,0 +1,12 @@
+{
+  "name": "SempreAmai",
+  "displayName": "SempreAmai",
+  "expo": {
+    "name": "SempreAmai",
+    "slug": "SempreAmai",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
